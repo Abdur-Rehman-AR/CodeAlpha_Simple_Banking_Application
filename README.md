@@ -33,18 +33,9 @@ Uses methods like depositMoney(), withdrawMoney(), and displayInformation() to p
 
 => How to Run
 
-1. Clone the repository:
-
-    git clone: https://github.com/Abdur-Rehman-AR/CodeAlpha_Simple_Banking_Application/tree/main
-    cd <repository-directory>
-
-2. Compile the code:
-
-    javac codeAlpha/CreateAccount.java codeAlpha/BankingApplication.java
-
-3. Run the program:
-
-    java codeAlpha.BankingApplication
+1. Clone the repository.
+2. Compile the code.
+3. Run the program.
 
 
 => Key Concepts Covered
