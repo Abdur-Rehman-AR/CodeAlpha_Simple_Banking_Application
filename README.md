@@ -35,90 +35,62 @@ Uses methods like depositMoney(), withdrawMoney(), and displayInformation() to p
 
 1. Clone the repository:
 
-git clone <repository-link>
-cd <repository-directory>
-
+    git clone: https://github.com/Abdur-Rehman-AR/CodeAlpha_Simple_Banking_Application/tree/main
+    cd <repository-directory>
 
 2. Compile the code:
 
-javac codeAlpha/CreateAccount.java codeAlpha/BankingApplication.java
-
+    javac codeAlpha/CreateAccount.java codeAlpha/BankingApplication.java
 
 3. Run the program:
 
-java codeAlpha.BankingApplication
+    java codeAlpha.BankingApplication
 
 
-Key Concepts Covered
+=> Key Concepts Covered
 
-Encapsulation: Securely manages private user data.
+1. Encapsulation: Securely manages private user data.
 
-Input Handling: Uses Scanner for user input and ensures proper validation.
+2. Input Handling: Uses Scanner for user input and ensures proper validation.
 
-Conditional Statements: Validates operations like deposits, withdrawals, and account creation.
+3. Conditional Statements: Validates operations like deposits, withdrawals, and account creation.
 
-Exception Handling: Prevents program crashes by managing invalid inputs gracefully.
+4. Exception Handling: Prevents program crashes by managing invalid inputs gracefully.
 
 
-
----
-
-Example Usage
+=> Example Usage
 
 1. Creating an Account:
 
 Enter your details (name, age, ID, address).
-
 If age < 18, the system denies account creation.
-
-
 
 2. Deposit Money:
 
 Input the amount to deposit.
-
 Ensures the deposit amount is valid and not too large.
-
-
 
 3. Withdraw Money:
 
 Input the withdrawal amount.
-
 Ensures the withdrawal amount does not exceed the balance.
-
-
 
 4. Display Account Information:
 
 View your account details and the latest transaction status.
 
 
-
-
-
----
-
-Limitations
+=> Limitations
 
 Currently, supports single-user accounts.
-
 Does not store data persistently; all information resets after the program ends.
 
 
-
----
-
-Improvements for Future
+=> Improvements for Future
 
 Add support for multiple user accounts.
-
 Implement persistent data storage (e.g., files or databases).
-
 Add a graphical user interface (GUI) for a more interactive experience.
 
-
-
----
 
 This project is an ideal start for Java programming learners to explore fundamental concepts and develop practical skills in software development.
