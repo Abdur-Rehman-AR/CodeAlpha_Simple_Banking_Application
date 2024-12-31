@@ -85,3 +85,13 @@ Add a graphical user interface (GUI) for a more interactive experience.
 
 
 This project is an ideal start for Java programming learners to explore fundamental concepts and develop practical skills in software development.
+
+
+=> Author: Abdur Rehman
+
+  A Computer Science student passionate about software development. Skilled in Java, data structures, and algorithms.
+
+=> Feel free to reach out or contribute to improve this project.
+
+=> License: This project is licensed under the MIT License.
+
