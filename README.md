@@ -2,6 +2,7 @@
 
 Simple Banking Application - Java Project
 
+
 A simple Banking Application implemented in Java, designed to provides basic banking operations such as account creation, deposit, withdrawal, and balance checking with clear and structured logic.
 
 
@@ -10,12 +11,18 @@ A simple Banking Application implemented in Java, designed to provides basic ban
 1. Encapsulation: Uses private attributes and public getter/setter methods for secure data handling.
 
 2. Account Management: Allows users to create an account by entering their name, age, ID, and address.
+   
+3. Create Account: Users can create new bank accounts with personal information and an initial balance.
 
-3. Banking Operations: Deposit money into the account. Withdraw money with proper validations. Check account balance and personal details.
+4. Account Details: Displays user account information for quick reference.
 
-4. Validation: Ensures users under 18 cannot create accounts. Prevents invalid deposits and withdrawals.
+5. Transaction Logs: Maintains a log of all financial transactions.
 
-5. Error Handling: Robust input validation and exception handling for a smooth user experience.
+6. Banking Operations: Deposit money into the account. Withdraw money with proper validations. Check account balance and personal details.
+
+7. Validation: Ensures users under 18 cannot create accounts. Prevents invalid deposits and withdrawals.
+
+8. Error Handling: Robust input validation and exception handling for a smooth user experience.
 
 
 => Project Structure
