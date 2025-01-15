@@ -1,9 +1,9 @@
 # CodeAlpha_Simple_Banking_Application
 
-Simple Banking Application - Java Project
+Multi-User Banking Application - Java Project
 
 
-A simple Banking Application implemented in Java, designed to provides basic banking operations such as account creation, deposit, withdrawal, and balance checking with clear and structured logic.
+A Multi-User Banking Application implemented in Java, designed to provides basic banking operations such as account creation, deposit, withdrawal, and balance checking with clear and structured logic.
 
 
 => Features 
@@ -77,16 +77,13 @@ Ensures the withdrawal amount does not exceed the balance.
 
 View your account details and the latest transaction status.
 
+5. Login into Account:
 
-=> Limitations
-
-Currently, supports single-user accounts.
-Does not store data persistently; all information resets after the program ends.
+User can login into his/her account if he/she wants to do so.
 
 
 => Improvements for Future
 
-Add support for multiple user accounts.
 Implement persistent data storage (e.g., files or databases).
 Add a graphical user interface (GUI) for a more interactive experience.
 
